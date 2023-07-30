@@ -1,2 +1,1 @@
-# osias-project
-adroid development
+# OASIS INFORBYTE JAVA DEVELOPMENT
